@@ -1,5 +1,5 @@
 local plr = game:GetService("Workspace")
-local target = plr["playernamehere"]
+local target = plr["goldenrebel"]
 local targett = target.Name
 if target then
 local a = Instance.new("BillboardGui",target)
